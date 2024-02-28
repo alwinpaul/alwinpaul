@@ -5,27 +5,12 @@ I am a Front-end developer, currently based in Canada.
 
 ## Tech Stack I work on
 
-<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwind+CSS&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwind+CSS&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
 
 
 ## Ask me About
 
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" /><img src="https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white&style=flat" />
 
 
 ## 
