@@ -17,7 +17,7 @@ I am a Front-end developer.
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats-a29jfldf1-alwin-pauls-projects.vercel.app/api/top-langs/?username=alwinpaul)](https://alwinpaul.ca)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwinpaul)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Say Hello @
