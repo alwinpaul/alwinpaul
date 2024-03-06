@@ -15,9 +15,9 @@ I am a Front-end developer.
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white&style=flat" />
 
 
-## 
+## Top Languages
 
-[Top Langs](https://alwin-stats-l4rf1bhkb-alwin-pauls-projects.vercel.app/api/top-langs/?username=alwinpaul)
+https://alwin-stats-l4rf1bhkb-alwin-pauls-projects.vercel.app/api/top-langs/?username=alwinpaul
 
 
 ## Say Hello @
