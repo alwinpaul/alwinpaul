@@ -1,7 +1,5 @@
 ## Hello There, My name is Alwin 👋
 
-Welcome to my github page.\
-I am a Front-end developer.
 
 ### Checkout my portfolio at [alwinpaul.ca](https://alwinpaul.ca)
 
