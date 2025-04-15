@@ -1,7 +1,7 @@
 ## Hello There 👋
 
 * 🚀 **Frontend Engineer** crafting smooth and engaging user experiences.
-* 🌱 **Co-founder @ workingas1** - Building the tools that transform business.
+* 🌱 **Co-founder @ WorkingAs1** - Building the tools that transform business.
 * 🤖 Currently exploring the fascinating world of **AI Agents** and their potential.
 * 💻 Tech Stack: JavaScript, TypeScript, React, Vue, Next, Node, Nest, Express, HTML5, CSS3, Python, Django.
 * 👯 Open to collaborating on innovative frontend or AI-driven projects.
